@@ -1,2 +1,3 @@
 # Red-theme-calculator
-Created with CodeSandbox
+Created by charankotagiri
+Simple  classic theme calculator with user friendly ui/ux.
